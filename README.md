@@ -1,5 +1,6 @@
 # EECS281_Project4_Drones
-Data Structures and Algorithms Projects. From my time in EECS 281 (DS&amp;A) @ UofMichigan, and some personal projects also
+Data Structures and Algorithms Project - Main Topics: Prim's Algorithm, Kruskal's Algorithm, Greedy Algorithms, Branch & Bound Algorithms
+
 # Drone Delivery System
 
 ## Project Identifier: 1761414855B69983BD8035097EFBD312EB0527F0
